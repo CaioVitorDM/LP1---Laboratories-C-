@@ -1,1 +1,1 @@
-# LP1---Laboratories-C-
+# LP1 - Laboratories using C++
